@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+}
+.book { 
+    display: grid;
+    width: 200px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
